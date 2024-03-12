@@ -1,2 +1,4 @@
 # european-data-governance-act-explained
 An easy explanation for European Data Governance Act (DGA) for implementation in software projects
+
+The protection of personal data (hereinafter referred to as PDA) in the European Union is considered as an integral element of the fundamental rights and freedoms of man and citizen, along with personal integrity. The right of citizens to ZPA is guaranteed by the founding treaties of the EU. Thus, according to Article 8 of the Charter of Fundamental Rights of the European Union and Article 16(1) of the Treaty on the Functioning of the European Union (TFEU), everyone has the right to the protection of personal data concerning him or her. Moreover, this right applies not only to citizens of the European Union, but also to citizens of third countries legally located in the EU, regardless of the duration of their stay .
